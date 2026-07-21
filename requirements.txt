@@ -1,0 +1,9 @@
+anthropic
+yfinance
+newsapi-python
+fastapi
+uvicorn
+streamlit
+requests
+rapidfuzz
+chromadb
